@@ -1,7 +1,7 @@
 # Kesar & Co. Support Copilot — Palak
 
 **Google Sheet (Audit Log + Tickets):** https://docs.google.com/spreadsheets/d/1TBriSEXELV0-44-jRGRaFEO3Oadivvxn0waNB10aIJY/edit
-**Video walkthrough:** _ADD LOOM / YOUTUBE LINK_
+**Video walkthrough:**
 
 ## 1. Summary
 
